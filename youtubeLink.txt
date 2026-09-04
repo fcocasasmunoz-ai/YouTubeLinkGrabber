@@ -1,112 +1,113 @@
-Chilevisión - Chile
+#EXTM3U
+#EXTINF:-1 group-title="Chile",Chilevisión
 https://www.youtube.com/@chilevision/live
-Meganoticias - Chile
+#EXTINF:-1 group-title="Chile",Meganoticias
 https://www.youtube.com/@Meganoticiascl/live
-CHV Noticias - Chile
+#EXTINF:-1 group-title="Chile",CHV Noticias
 https://www.youtube.com/@chvnoticiascl/live
-Canal 13 Internacional - Chile
+#EXTINF:-1 group-title="Chile",Canal 13 Internacional
 https://www.youtube.com/@canal13chile/live
-TVN Chile - Chile
+#EXTINF:-1 group-title="Chile",TVN Chile
 https://www.youtube.com/@tvn/live
-24 Horas - Chile
+#EXTINF:-1 group-title="Chile",24 Horas
 https://www.youtube.com/@24horastvn/live
-Zona Latina - Chile
+#EXTINF:-1 group-title="Chile",Zona Latina
 https://www.youtube.com/@ZonaLatina/live
-Sin Filtros TV - Chile
+#EXTINF:-1 group-title="Chile",Sin Filtros TV
 https://www.youtube.com/@sinfiltrostv/live
-El 13 - Chile
+#EXTINF:-1 group-title="Chile",El 13
 https://www.youtube.com/@el13cl/live
-Teletrece - Chile
+#EXTINF:-1 group-title="Chile",Teletrece
 https://www.youtube.com/@teletrece/live
-Turno - Chile
+#EXTINF:-1 group-title="Chile",Turno
 https://www.youtube.com/@turno/live
-Bio Bio - Chile
+#EXTINF:-1 group-title="Chile",Bio Bio
 https://www.youtube.com/@biobiochile/live
-Somos Fabuloso - Chile
+#EXTINF:-1 group-title="Chile",Somos Fabuloso
 https://www.youtube.com/@somosfabuloso/live
-Telefe - Argentina
+#EXTINF:-1 group-title="Argentina",Telefe
 https://www.youtube.com/@telefe/live
-Todo Noticias (TN) - Argentina
+#EXTINF:-1 group-title="Argentina",Todo Noticias (TN)
 https://www.youtube.com/@todonoticias/live
-Luzu TV - Argentina
+#EXTINF:-1 group-title="Argentina",Luzu TV
 https://www.youtube.com/@LuzuTV/live
-OLGA - Argentina
+#EXTINF:-1 group-title="Argentina",OLGA
 https://www.youtube.com/@olgaenvivo/live
-C5N - Argentina
+#EXTINF:-1 group-title="Argentina",C5N
 https://www.youtube.com/@c5n/live
-Crónica TV - Argentina
+#EXTINF:-1 group-title="Argentina",Crónica TV
 https://www.youtube.com/@cronicatv/live
-A24 - Argentina
+#EXTINF:-1 group-title="Argentina",A24
 https://www.youtube.com/@A24com/live
-La Nación + - Argentina
+#EXTINF:-1 group-title="Argentina",La Nación +
 https://www.youtube.com/@lanacion/live
-América TV - Argentina
+#EXTINF:-1 group-title="Argentina",América TV
 https://www.youtube.com/@americatv/live
-El Trece - Argentina
+#EXTINF:-1 group-title="Argentina",El Trece
 https://www.youtube.com/@eltrece/live
-El Doce TV - Argentina
+#EXTINF:-1 group-title="Argentina",El Doce TV
 https://www.youtube.com/@eldoce/live
-El Siete TV - Argentina
+#EXTINF:-1 group-title="Argentina",El Siete TV
 https://www.youtube.com/@elsietetv/live
-TV Pública Argentina - Argentina
+#EXTINF:-1 group-title="Argentina",TV Pública Argentina
 https://www.youtube.com/@TVPublica/live
-Bondi Live - Argentina
+#EXTINF:-1 group-title="Argentina",Bondi Live
 https://www.youtube.com/@bondilive/live
-La Casa Streaming - Argentina
+#EXTINF:-1 group-title="Argentina",La Casa Streaming
 https://www.youtube.com/@lacasastreaming/live
-Magaly ATV - Perú
+#EXTINF:-1 group-title="Perú",Magaly ATV
 https://www.youtube.com/@MagalyATV/live
-América Televisión - Perú
+#EXTINF:-1 group-title="Perú",América Televisión
 https://www.youtube.com/@Americatv/live
-Latina Noticias - Perú
+#EXTINF:-1 group-title="Perú",Latina Noticias
 https://www.youtube.com/@LatinaNoticias/live
-Willax Televisión - Perú
+#EXTINF:-1 group-title="Perú",Willax Televisión
 https://www.youtube.com/@willaxtelevision/live
-TV Perú Noticias - Perú
+#EXTINF:-1 group-title="Perú",TV Perú Noticias
 https://www.youtube.com/@TVPeruNoticias/live
-RPP Noticias - Perú
+#EXTINF:-1 group-title="Perú",RPP Noticias
 https://www.youtube.com/@RPPNoticias/live
-Exitosa.pe - Perú
+#EXTINF:-1 group-title="Perú",Exitosa.pe
 https://www.youtube.com/@exitosape/live
-Zaca TV - Perú
+#EXTINF:-1 group-title="Perú",Zaca TV
 https://www.youtube.com/@zacatv/live
-Yo Soy Perú - Perú
+#EXTINF:-1 group-title="Perú",Yo Soy Perú
 https://www.youtube.com/@YoSoyPeru/live
-El Diario de Curwen - Perú
+#EXTINF:-1 group-title="Perú",El Diario de Curwen
 https://www.youtube.com/@eldiariodecurwen/live
-Todo Good - Perú
+#EXTINF:-1 group-title="Perú",Todo Good
 https://www.youtube.com/@todogood/live
-L1MAX - Perú
+#EXTINF:-1 group-title="Perú",L1MAX
 https://www.youtube.com/@l1max/live
-La Roro Network - Perú
+#EXTINF:-1 group-title="Perú",La Roro Network
 https://www.youtube.com/@laroronetwork/live
-RTVE - 24h - España
+#EXTINF:-1 group-title="España",RTVE - 24h
 https://www.youtube.com/@rtvenoticias/live
-Antena 3 - España
+#EXTINF:-1 group-title="España",Antena 3
 https://www.youtube.com/@antena3/live
-La Sexta - España
+#EXTINF:-1 group-title="España",La Sexta
 https://www.youtube.com/@laSexta/live
-Telecinco - España
+#EXTINF:-1 group-title="España",Telecinco
 https://www.youtube.com/@telecinco/live
-Cuatro - España
+#EXTINF:-1 group-title="España",Cuatro
 https://www.youtube.com/@cuatro/live
-El País - España
+#EXTINF:-1 group-title="España",El País
 https://www.youtube.com/@elpais/live
-El Mundo - España
+#EXTINF:-1 group-title="España",El Mundo
 https://www.youtube.com/@elmundo/live
-ABC (España) - España
+#EXTINF:-1 group-title="España",ABC (España)
 https://www.youtube.com/@abc/live
-TV3 - Cataluña
+#EXTINF:-1 group-title="Cataluña",TV3
 https://www.youtube.com/@tv3/live
-Canal Sur - Andalucía
+#EXTINF:-1 group-title="Andalucía",Canal Sur
 https://www.youtube.com/@canalsur/live
-ETB - País Vasco
+#EXTINF:-1 group-title="País Vasco",ETB
 https://www.youtube.com/@eitb/live
-TVG - Galicia
+#EXTINF:-1 group-title="Galicia",TVG
 https://www.youtube.com/@tvg/live
-Aragón TV - Aragón
+#EXTINF:-1 group-title="Aragón",Aragón TV
 https://www.youtube.com/@aragontv/live
-Disney Channel España - España
+#EXTINF:-1 group-title="España",Disney Channel España
 https://www.youtube.com/@disneychanneles/live
-CNN en Español - Internacional
+#EXTINF:-1 group-title="Internacional",CNN en Español
 https://www.youtube.com/@cnnenespanol/live
