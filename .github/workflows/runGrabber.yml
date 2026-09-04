@@ -4,7 +4,7 @@ on:
   schedule:
     - cron: '*/60 * * * *'
 
-  pull_request_target:    # <--- CAMBIA ESTA LÍNEA
+  pull_request_target:    # <--- Este cambio ya lo hiciste
     branches: [ main ]
 
   workflow_dispatch:
@@ -14,7 +14,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4    # <--- CAMBIA ESTA LÍNEA (de @v2 a @v4)
 
       - name: Grab Link
         run: |
