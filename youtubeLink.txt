@@ -1,46 +1,114 @@
-## FORMAT: <channel name> - <Country>
-
-東森新聞 - Taiwan
-https://www.youtube.com/watch?v=R2iMq5LKXco
-
-東森財經 - Taiwan
-https://www.youtube.com/watch?v=ABn_ccXn_jc
-
-TVBS新聞 - Taiwan
-https://www.youtube.com/watch?v=2mCSYvcfhtc
-
-台視新聞 - Taiwan
-https://www.youtube.com/watch?v=xL0ch83RAK8
-
-民視新聞 - Taiwan
-https://www.youtube.com/watch?v=XGEmg3vhrzU
-
-華視新聞 - Taiwan
-https://www.youtube.com/watch?v=yUTy1U1wTwE
-
-ABC News (US) - US
-https://www.youtube.com/watch?v=w_Ma8oQLmSM
-
-CNA - Singapore
-https://www.youtube.com/watch?v=XWq5kBlakcQ
-
-DW - Germany
-https://www.youtube.com/watch?v=V9KZGs1MtP4
-
-Al Jazeera English - Qatar
-https://www.youtube.com/watch?v=-upyPouRrB8
-
-Astro AWANI - Malaysia
-https://www.youtube.com/watch?v=zLu0wfp6bgw
-
-France 24 English - France
-https://www.youtube.com/watch?v=jNhh-OLzWlE
-
-RT - Russia
-https://www.youtube.com/watch?v=V0I5eglJMRI
-
-Test Fail Link - FBK
-https://www.youtube.com/watch?v=aaa
-
-
-
+Chilevisión - Chile
+https://www.youtube.com/@chilevision/live
+Meganoticias - Chile
+https://www.youtube.com/@Meganoticiascl/live
+CHV Noticias - Chile
+https://www.youtube.com/@chvnoticiascl/live
+Canal 13 Internacional - Chile
+https://www.youtube.com/@canal13chile/live
+TVN Chile - Chile
+https://www.youtube.com/@tvn/live
+24 Horas - Chile
+https://www.youtube.com/@24horastvn/live
+Zona Latina - Chile
+https://www.youtube.com/@ZonaLatina/live
+Sin Filtros TV - Chile
+https://www.youtube.com/@sinfiltrostv/live
+El 13 - Chile
+https://www.youtube.com/@el13cl/live
+Teletrece - Chile
+https://www.youtube.com/@teletrece/live
+Turno - Chile
+https://www.youtube.com/@turno/live
+Bio Bio - Chile
+https://www.youtube.com/@biobiochile/live
+Somos Fabuloso - Chile
+https://www.youtube.com/@somosfabuloso/live
+RT en Español - Chile
+https://actualidad.rt.com/en_vivo
+Telefe - Argentina
+https://www.youtube.com/@telefe/live
+Todo Noticias (TN) - Argentina
+https://www.youtube.com/@todonoticias/live
+Luzu TV - Argentina
+https://www.youtube.com/@LuzuTV/live
+OLGA - Argentina
+https://www.youtube.com/@olgaenvivo/live
+C5N - Argentina
+https://www.youtube.com/@c5n/live
+Crónica TV - Argentina
+https://www.youtube.com/@cronicatv/live
+A24 - Argentina
+https://www.youtube.com/@A24com/live
+La Nación + - Argentina
+https://www.youtube.com/@lanacion/live
+América TV - Argentina
+https://www.youtube.com/@americatv/live
+El Trece - Argentina
+https://www.youtube.com/@eltrece/live
+El Doce TV - Argentina
+https://www.youtube.com/@eldoce/live
+El Siete TV - Argentina
+https://www.youtube.com/@elsietetv/live
+TV Pública Argentina - Argentina
+https://www.youtube.com/@TVPublica/live
+Bondi Live - Argentina
+https://www.youtube.com/@bondilive/live
+La Casa Streaming - Argentina
+https://www.youtube.com/@lacasastreaming/live
+Magaly ATV - Perú
+https://www.youtube.com/@MagalyATV/live
+América Televisión - Perú
+https://www.youtube.com/@Americatv/live
+Latina Noticias - Perú
+https://www.youtube.com/@LatinaNoticias/live
+Willax Televisión - Perú
+https://www.youtube.com/@willaxtelevision/live
+TV Perú Noticias - Perú
+https://www.youtube.com/@TVPeruNoticias/live
+RPP Noticias - Perú
+https://www.youtube.com/@RPPNoticias/live
+Exitosa.pe - Perú
+https://www.youtube.com/@exitosape/live
+Zaca TV - Perú
+https://www.youtube.com/@zacatv/live
+Yo Soy Perú - Perú
+https://www.youtube.com/@YoSoyPeru/live
+El Diario de Curwen - Perú
+https://www.youtube.com/@eldiariodecurwen/live
+Todo Good - Perú
+https://www.youtube.com/@todogood/live
+L1MAX - Perú
+https://www.youtube.com/@l1max/live
+La Roro Network - Perú
+https://www.youtube.com/@laroronetwork/live
+RTVE - 24h - España
+https://www.youtube.com/@rtvenoticias/live
+Antena 3 - España
+https://www.youtube.com/@antena3/live
+La Sexta - España
+https://www.youtube.com/@laSexta/live
+Telecinco - España
+https://www.youtube.com/@telecinco/live
+Cuatro - España
+https://www.youtube.com/@cuatro/live
+El País - España
+https://www.youtube.com/@elpais/live
+El Mundo - España
+https://www.youtube.com/@elmundo/live
+ABC (España) - España
+https://www.youtube.com/@abc/live
+TV3 - Cataluña
+https://www.youtube.com/@tv3/live
+Canal Sur - Andalucía
+https://www.youtube.com/@canalsur/live
+ETB - País Vasco
+https://www.youtube.com/@eitb/live
+TVG - Galicia
+https://www.youtube.com/@tvg/live
+Aragón TV - Aragón
+https://www.youtube.com/@aragontv/live
+Disney Channel España - España
+https://www.youtube.com/@disneychanneles/live
+CNN en Español - Internacional
+https://www.youtube.com/@cnnenespanol/live
