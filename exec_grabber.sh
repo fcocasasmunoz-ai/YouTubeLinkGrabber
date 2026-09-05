@@ -1,6 +1,11 @@
 #!/bin/bash
-python3 -m pip install requests
+set -e  # Detener el script si ocurre un error
 
-python3 YouTubeLinkGrabber.py > ./youtube.m3u
+echo "=== Iniciando YouTubeLinkGrabber ==="
+echo "Instalando dependencias..."
+pip install --user yt-dlp
 
-echo M3U grabbed.
+echo "Ejecutando el script..."
+python3 YouTubeLinkGrabber.py
+
+echo "Proceso completado."
